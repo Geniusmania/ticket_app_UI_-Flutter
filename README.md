@@ -2,7 +2,7 @@
 - 👀 I’m interested in app developement
 - 🌱 I’m currently learning flutter and Dart
 - 💞️ I’m looking to collaborate on ...experts
-- 📫 How to reach me ...baidoosolomon2001@gmail.com 
+- 📫 How to reach me ...solomonbaidoo.sb@gmail.com 
 
 <!---
 Geniusmania/Geniusmania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
