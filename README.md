@@ -1,4 +1,4 @@
-# tick
+# Proffessional ticket app ui with flutter
 
 A new Flutter project.
 
