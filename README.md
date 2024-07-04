@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Geniusmania
-- 👀 I’m interested in ...hacking
-- 🌱 I’m currently learning ...python and cpp
+- 👀 I’m interested in app developement
+- 🌱 I’m currently learning flutter and Dart
 - 💞️ I’m looking to collaborate on ...experts
 - 📫 How to reach me ...baidoosolomon2001@gmail.com 
 
